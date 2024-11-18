@@ -1,6 +1,6 @@
 ## BACKEND
 
-Express js CRUD API
+Simple Express js CRUD API
 
 ### Aspectos Técnicos
 
